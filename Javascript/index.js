@@ -1,2 +1,2 @@
-console.log("Ratata "+"1")
+console.log("fuscão preto")
 
