@@ -10,4 +10,5 @@ console.log (numero)
 const nome = "Wenderson"
 console.log(nome)
 // nome = "batata" - nao pode atribuir valor para
-//  constante depois de declara
+//  constante depois de d 
+console.log (vdd)
