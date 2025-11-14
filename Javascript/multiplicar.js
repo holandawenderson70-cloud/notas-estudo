@@ -1,6 +1,7 @@
 // FUP para multiplicar dois números
 
-const num = 10
-const num2 = 2
+const num = prompt("Digite um número: ")
+const num2 = prompt("Digite outro número: ")
 console.log("multiplicar dois numeros")
-console.log(num*num2)
+alert(num * num2)
+// o prompt serve para pedir alguma informação

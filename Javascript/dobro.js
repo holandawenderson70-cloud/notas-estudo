@@ -1,5 +1,6 @@
-const num1 = 22;
+const num1 = prompt("Digite um número: ")
 
-const resultado = num1*2
+const resultado = num1 * 2
 
-console.log("descobrindo o dobro de "+num1+ " o resultado é: "+resultado)
+alert("descobrindo o dobro de " + num1 + " o resultado é: " + resultado)
+// o prompt serve para pedir alguma informação
